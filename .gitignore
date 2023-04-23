@@ -5,3 +5,6 @@ __pycache__/
 # macOS
 .DS_Store
 
+#airflow
+/logs
+/plugins
